@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+Very experienced and professional in Blockchain and WebGL technologies. 
 
 <!--
 **metadev26/metadev26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Github Profile Trophy
+![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
+
+### Github Statistics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
