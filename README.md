@@ -50,7 +50,7 @@ And also, I specialize in metaverse and 3D game development using NFTs, WebGL an
 <h3 style="border:1px solid black;" align="center">My Github Statistics</h3>
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&line_height=21&theme=radical" alt="Anurag's GitHub stats">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&line_height=21&theme=radical" alt="GitHub stats">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&line_height=21&theme=radical" alt="Top Langs">
 </p>
 <p align="center"><img height="160px" src="https://github-readme-streak-stats.herokuapp.com?user=DenverCoder1&theme=radical" alt="GitHub Streak"></p>
